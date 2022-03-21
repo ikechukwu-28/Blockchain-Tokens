@@ -9,4 +9,4 @@ ERC721 Token.....https://ropsten.etherscan.io/address/0x30a00b4e24c9a70bf9a806d4
   "description": "Brazen Stallions"
 }
 
-NFT: ipfs://QmPhjY9kxZiuUZNNLEtD6u9UeWCngbDmschKfa2ETTwZDD
+NFT: https://ipfs.io/ipfs/QmPhjY9kxZiuUZNNLEtD6u9UeWCngbDmschKfa2ETTwZDD?filename=creativeyuteNFT.json
